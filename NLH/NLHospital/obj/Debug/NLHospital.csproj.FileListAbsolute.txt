@@ -1,0 +1,35 @@
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.csprojAssemblyReference.cache
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.frmBillPatient.resources
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.frmDoctors.resources
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.frmMenu.resources
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.frmNLHospital.resources
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.csproj.GenerateResource.cache
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.csproj.CoreCompileInputs.cache
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.exe
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.pdb
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\bin\Debug\NLHospital.exe
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\bin\Debug\NLHospital.pdb
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\bin\Debug\NLHBaseWindow.dll
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\bin\Debug\NLHospitalLibrary.dll
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\bin\Debug\NLHBaseWindow.pdb
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\bin\Debug\NLHospitalLibrary.pdb
+C:\Users\mesmaeilpour\Desktop\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.csproj.CopyComplete
+C:\Users\Lenovo\Documents\Multi-tier Applications\Final_Project_Multi-tier_backup\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\bin\Debug\NLHospital.exe
+C:\Users\Lenovo\Documents\Multi-tier Applications\Final_Project_Multi-tier_backup\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\bin\Debug\NLHospital.pdb
+C:\Users\Lenovo\Documents\Multi-tier Applications\Final_Project_Multi-tier_backup\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\bin\Debug\NLHBaseWindow.dll
+C:\Users\Lenovo\Documents\Multi-tier Applications\Final_Project_Multi-tier_backup\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\bin\Debug\NLHospitalLibrary.dll
+C:\Users\Lenovo\Documents\Multi-tier Applications\Final_Project_Multi-tier_backup\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\bin\Debug\NLHBaseWindow.pdb
+C:\Users\Lenovo\Documents\Multi-tier Applications\Final_Project_Multi-tier_backup\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\bin\Debug\NLHospitalLibrary.pdb
+C:\Users\Lenovo\Documents\Multi-tier Applications\Final_Project_Multi-tier_backup\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\Final_Project_Multi-tier_backup\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.frmBillPatient.resources
+C:\Users\Lenovo\Documents\Multi-tier Applications\Final_Project_Multi-tier_backup\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.frmDoctors.resources
+C:\Users\Lenovo\Documents\Multi-tier Applications\Final_Project_Multi-tier_backup\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.frmMenu.resources
+C:\Users\Lenovo\Documents\Multi-tier Applications\Final_Project_Multi-tier_backup\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.frmNLHospital.resources
+C:\Users\Lenovo\Documents\Multi-tier Applications\Final_Project_Multi-tier_backup\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\Final_Project_Multi-tier_backup\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\Final_Project_Multi-tier_backup\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.csproj.CopyComplete
+C:\Users\Lenovo\Documents\Multi-tier Applications\Final_Project_Multi-tier_backup\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.exe
+C:\Users\Lenovo\Documents\Multi-tier Applications\Final_Project_Multi-tier_backup\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.pdb
+C:\Users\Lenovo\Documents\Multi-tier Applications\Final_Project_Multi-tier_backup\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\bin\Debug\NLHospital.exe.config
+C:\Users\Lenovo\Documents\Multi-tier Applications\Final_Project_Multi-tier_backup\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.Admission.resources
+C:\Users\Lenovo\Documents\Multi-tier Applications\Final_Project_Multi-tier_backup\Final_Project_Multitier\Final_Project_Multi_tier\NLH\NLHospital\obj\Debug\NLHospital.Patient.resources
